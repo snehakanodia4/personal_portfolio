@@ -15,7 +15,7 @@
     homescreen: homeContent,
     about: "<div id='about'>Student at IIT(BHU), VARANASI.<br>Competitive Programmer<br>Web and App Developer</div>",
 
-    projects: "<div id='projects'><li>Personal Portfolio-HTML/CSS/JS</li><li>Weather App-Flutter</li></div>",
+    projects: "<div id='projects'><li>Personal Portfolio-HTML/CSS/JS</li><li>Weather App-Flutter</li><li>E-Mart App-Flutter</li></div>",
 
     gallery: "<div id='gallery'>Yet to add pictures</div>"
   };
